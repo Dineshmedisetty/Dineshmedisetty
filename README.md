@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dinesh</h1>
+<h1 align="center">Hi 👋, I'm Dinesh</h1><br><br>
 <h3 align="center">Driven AI & ML Engineer | Data Analytics Specialist | Building Intelligence with Data & Code</h3>
 
 ### 🧠 About Me
 
 I'm a curious and Driven developer with a deep interest in AI concepts, machine learning, data analysis, and web development. I enjoy building intelligent, data-centric applications, experimenting with deep learning techniques, and contributing to open-source projects. I love solving real-world problems through code. Always eager to learn, adapt, and grow with evolving technology while creating meaningful, responsible AI solutions.
 
-- 📫 How to reach me **dineshmedisetty21@gmail.com**
+📫 How to reach me **dineshmedisetty21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
