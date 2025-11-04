@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh</h1><br><br>
-<h3 align="center">Driven AI & ML Engineer | Data Analytics Specialist | Building Intelligence with Data & Code</h3>
+<h3 align="center"> AI & ML Engineer | Data Analytics</h3>
 
 ### 🧠 About Me
 
