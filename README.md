@@ -66,7 +66,7 @@ I'm a curious and Driven developer with a deep interest in AI concepts, machine 
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshmedisetty&show_icons=true&locale=en&layout=compact" alt="dineshmedisetty" />
-</p>
+</p>  
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshmedisetty&" alt="dineshmedisetty" />
